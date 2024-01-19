@@ -34,15 +34,17 @@ CSS
 ![Screenshot (15)](https://github.com/jezzyll/Flutour/assets/119606762/e3e78e37-8f0d-4bb6-8b1b-cecca8d4dd8d)
 ![Screenshot (16)](https://github.com/jezzyll/Flutour/assets/119606762/5dec5816-26e0-42c9-8c5e-bf01e497a13e)
 
-# Running the Project Locally
-To run this project locally, simply clone this repository and open the index.html file in your preferred web browser.
+`# Running the Project Locally
+To run this project locally, simply clone this repository and open the index.html file in your preferred web browser.`
 
+```
 bash
 Copy code
 git clone https://github.com/your-username/flutour-website.git
 cd flutour-website
 Contributing
 We welcome contributions to improve Flutour's website. If you find any bugs, have suggestions for enhancements, or want to add new features, feel free to open an issue or submit a pull request.
+```
 
 # License
 This project is licensed under the MIT License.
