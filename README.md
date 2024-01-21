@@ -5,30 +5,35 @@ Welcome to Flutour's website repository! This repository contains the code for F
 
 # Table of Contents
 
-About
-Services
-Portfolio
-Contact Us
-Home
++ Home
+* Portfolio
+- Services
++ About
+- Contact Us
 
-# About
-The "About" section of the website provides an overview of Flutour, including our mission, vision, and values. It details our history, team, and our dedication to delivering high-quality Flutter development services.
-
-# Services
-In the "Services" section, we elaborate on the range of Flutter development services we offer. Whether it's mobile app development, web development, or custom solutions, this section outlines our expertise.
-
-# Portfolio
-Our "Portfolio" section showcases some of our best projects. It demonstrates the diversity of our work and gives visitors a glimpse of the high-standard Flutter applications we've developed.
-
-# Contact Us
-The "Contact Us" section allows visitors to get in touch with us. It includes a contact form or relevant contact information, enabling potential clients or collaborators to reach out for inquiries or collaboration opportunities.
 
 # Home
 The "Home" section serves as the landing page, introducing visitors to Flutour. It might include a brief overview of our services, a welcome message, and navigation to other sections of the website.
 
+# Portfolio
+Our "Portfolio" section showcases some of our best projects. It demonstrates the diversity of our work and gives visitors a glimpse of the high-standard Flutter applications we've developed.
+
+# Services
+In the "Services" section, we elaborate on the range of Flutter development services we offer. Whether it's mobile app development, web development, or custom solutions, this section outlines our expertise.
+
+# About
+The "About" section of the website provides an overview of Flutour, including our mission, vision, and values. It details our history, team, and our dedication to delivering high-quality Flutter development services.
+
+# Contact Us
+The "Contact Us" section allows visitors to get in touch with us. It includes a contact form or relevant contact information, enabling potential clients or collaborators to reach out for inquiries or collaboration opportunities.
+
+
+
 # Technologies Used
+```
 HTML
 CSS
+```
 ![Screenshot (13)](https://github.com/jezzyll/Flutour/assets/119606762/561c1866-58bf-46a1-835a-5b343bf6f977)
 ![Screenshot (14)](https://github.com/jezzyll/Flutour/assets/119606762/b9a1cefa-55c0-4b23-920a-0548e10cbacc)
 ![Screenshot (15)](https://github.com/jezzyll/Flutour/assets/119606762/e3e78e37-8f0d-4bb6-8b1b-cecca8d4dd8d)
