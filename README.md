@@ -51,6 +51,8 @@ Contributing
 We welcome contributions to improve Flutour's website. If you find any bugs, have suggestions for enhancements, or want to add new features, feel free to open an issue or submit a pull request.
 ```
 
+http://127.0.0.1:5501/flutour.html
+
 # License
 This project is licensed under the MIT License.
 
